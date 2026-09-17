@@ -7,6 +7,10 @@ le css ne s'affichait pas car il y avait un s a "style
 2.
 tout etait ok je n'est rien eu a changé donc je sais pas
 
+3.
+elle se trouve en local
 
 
-
+```text
+Pause : 10:30
+```
