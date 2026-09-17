@@ -1,0 +1,12 @@
+Atelier Git
+Accueil : 09:00
+Fin     : 12:00
+
+1.
+le css ne s'affichait pas car il y avait un s a "style
+2.
+tout etait ok je n'est rien eu a changé donc je sais pas
+
+
+
+
