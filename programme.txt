@@ -10,7 +10,9 @@ tout etait ok je n'est rien eu a changé donc je sais pas
 3.
 elle se trouve en local
 
+4. le fichier est modifier 
 
+5. changed not stage for commit 
 ```text
 Pause : 10:30
 ```
